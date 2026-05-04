@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
----
 
 ## 👨‍💻 About Me
 - 🔭 Working on: Agentic AI projects 🚗
@@ -50,7 +49,7 @@
 ## 🤝 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/passionateaman">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="mailto:passionateaman148@gmail.com">Email</a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=passionateaman)
