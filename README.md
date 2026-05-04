@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @passionateaman
-- 👀 I’m interested in data structures,web development 
+- 👀 I’m interested in data structures, web development, machine learning, artificial intelligence
 - 🌱 I’m currently learning data structures 
 - 💞️ I’m looking to collaborate on nulab
 - 📫 How to reach me passionateaman148@gmail.com 
