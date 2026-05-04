@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Shrivastava</h1>
+<h1 align="center">Hi, I'm Aman Shrivastava</h1>
 <h3 align="center">ML Engineer | Full Stack Developer</h3>
 
 <p align="center">
