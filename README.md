@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Learner&center=true&width=500&height=50">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -47,6 +49,8 @@
 
 ## 🤝 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/">LinkedIn</a> •
+  <a href="https://linkedin.com/in/passionateaman">LinkedIn</a> •
   <a href="mailto:your@email.com">Email</a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=passionateaman)
